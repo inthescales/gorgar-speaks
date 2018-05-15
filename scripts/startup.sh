@@ -1,3 +1,3 @@
 botname="gorgarbot.py"
 
-python $botname &
+python $botname --start next 2>1 > output.log &
