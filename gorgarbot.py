@@ -6,5 +6,5 @@ credentials = {
 }
     
 buddy = BotBuddy()
-buddy.setup(gorgarspeaks.speak, interval="4h", retry=True, credentials=credentials)
-buddy.launch()
+buddy.setup(gorgarspeaks.speak, retry=True, credentials=credentials)
+buddy.post()
