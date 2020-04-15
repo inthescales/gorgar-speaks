@@ -8,7 +8,7 @@ It is also a bot on Twitter(@gorgartweets) that posts these phrases.
 
 To run Gorgar Speaks in the console, run gorgar.py with the flag '--test'. It will generate an utterance and print it to the console.
 
-To generate more entries at once, use the flag '-c' followed by an integer value.
+To generate more utterances at once, use the flag '-c' followed by an integer value.
 
 ## Requirements
 
